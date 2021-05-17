@@ -15,4 +15,3 @@ def c(df):
 df = pd.read_csv("lab_08/zamowienia.csv",header=0,delimiter=";")
 print(a(df))
 print(b(df))
-print(c(df))
